@@ -1,0 +1,13 @@
+nav ul li a {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+nav ul li a:hover {
+	background-color: limegreen;
+	color: white;
+}
+
+#visionmision {
+	height: 450px;
+}
